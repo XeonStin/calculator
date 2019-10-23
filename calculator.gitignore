@@ -1,0 +1,6 @@
+*.exe
+*.png
+*.7z
+*.zip
+calculator-front/Calculator/bin/
+calculator-front/Calculator/obj/

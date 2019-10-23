@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\Calculator\Calculator\bin\Release\CalculatorFront.exe.config
+C:\Users\Lenovo\source\repos\Calculator\Calculator\bin\Release\CalculatorFront.exe
+C:\Users\Lenovo\source\repos\Calculator\Calculator\bin\Release\CalculatorFront.pdb
+C:\Users\Lenovo\source\repos\Calculator\Calculator\obj\Release\WindowsFormsApp1.Form1.resources
+C:\Users\Lenovo\source\repos\Calculator\Calculator\obj\Release\CalculatorFront.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Calculator\Calculator\obj\Release\CalculatorFront.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Calculator\Calculator\obj\Release\CalculatorFront.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Calculator\Calculator\obj\Release\CalculatorFront.exe
+C:\Users\Lenovo\source\repos\Calculator\Calculator\obj\Release\CalculatorFront.pdb
+C:\Users\Lenovo\source\repos\Calculator\Calculator\obj\Release\CalculatorFront.csprojAssemblyReference.cache
